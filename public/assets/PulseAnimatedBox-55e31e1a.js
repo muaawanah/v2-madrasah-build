@@ -1,0 +1,1 @@
+import{_ as e,o as s,b as n}from"./index-c9a6bcd2.js";const o={},t={class:"rounded-lg z-10 bg-slate-200 animate-pulse min-h-4"};function c(a,r){return s(),n("div",t)}const i=e(o,[["render",c]]);export{i as P};
