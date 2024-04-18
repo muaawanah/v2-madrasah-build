@@ -1,0 +1,1 @@
+import{P as e}from"./PulseAnimatedBox-6091b3d2.js";import{o as a,b as t,e as r,f as s}from"./index-e45e1d2a.js";const c={class:"w-full flex flex-wrap justify-center items-center gap-4"},m={__name:"PulseAnimatedCard",setup(l){return(o,n)=>(a(),t("div",null,[r("div",c,[s(e,{class:"w-full h-6"}),s(e,{class:"w-20 h-8"})])]))}};export{m as _};
