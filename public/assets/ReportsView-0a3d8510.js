@@ -1,0 +1,1 @@
+import{_ as e}from"./ComingSoon-ae485efb.js";import{o,b as t,g as a}from"./index-3bd1d8c6.js";const s={class:"container mx-auto"},i={__name:"ReportsView",setup(r){return(c,_)=>(o(),t("div",s,[a(e)]))}};export{i as default};
