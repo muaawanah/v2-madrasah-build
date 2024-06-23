@@ -1,0 +1,1 @@
+import{_ as e}from"./OurClasses-026efbc3.js";import{o as a,b as o,g as s}from"./index-d23e54bc.js";import"./department-8b058e68.js";const t={class:"container mx-auto max-w-5xl py-4"},i={__name:"ClassesPage",setup(r){return(c,_)=>(a(),o("div",t,[s(e)]))}};export{i as default};
