@@ -1,0 +1,1 @@
+import{_ as e}from"./ComingSoon-a711ec0e.js";import{o,b as t,g as a}from"./index-cc373fef.js";const s={class:"container mx-auto"},m={__name:"SmsNotificationsView",setup(c){return(r,_)=>(o(),t("div",s,[a(e)]))}};export{m as default};

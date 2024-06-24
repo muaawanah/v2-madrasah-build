@@ -1,0 +1,1 @@
+import{m as a,o,b as r,t as n,f as c}from"./index-cc373fef.js";const p={class:"font-semibold text-gray-700 print:text-black"},u={__name:"AuthUserNameAsText",setup(_){const s=a();return(m,i)=>{var t,e;return o(),r("div",p,n((e=(t=c(s))==null?void 0:t.user)==null?void 0:e.name),1)}}};export{u as _};
